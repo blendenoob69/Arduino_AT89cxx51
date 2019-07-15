@@ -7,7 +7,7 @@ Modify HEXFILE: put a capital W in the first sentence.
 Then copy it COMPORT of the PC to the Arduino:
 copy file.hex com3: /B
 
-switch on the XON/XOFF protcol of the COMPORT
-mde com3 xon=on
+switch on the XON/XOFF protcoll of the COMPORT
+mode com3 xon=on
 
 PROGRAM is under construction...
